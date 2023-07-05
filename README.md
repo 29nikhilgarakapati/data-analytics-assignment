@@ -28,6 +28,6 @@ Let's say there's a URL: https://www.eka.care/doctor/dr-d-b-bhosale-general-surg
 
 How would you scrape the data and convert it to a dataframe and export it as an excel?
 
-(end result should look like: )
+(end result should look like: [Click here](https://github.com/29nikhilgarakapati/data-analytics-assignment/blob/main/eka-care-sample.xlsx))
 
 ---
