@@ -31,3 +31,7 @@ How would you scrape the data and convert it to a dataframe and export it as an 
 (end result should look like: [Click here](https://github.com/29nikhilgarakapati/data-analytics-assignment/blob/main/eka-care-sample.xlsx))
 
 ---
+
+Please provide the solutions in a PDF file.
+
+All the best!
